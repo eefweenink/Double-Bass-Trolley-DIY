@@ -73,3 +73,39 @@ To ensure this works with a single bolt, the design must include a column of com
 ![Dimensions Diagram](https://github.com/user-attachments/assets/5e16f7d9-d866-42dc-8dd8-d8afd1b01106)
 
 > *The bearing housing and shim rings can be 3D printed or made of metal. My suggestion is to 3D print the bearing housing and use metal shims (see BOM list).*
+>
+> ## Materials Used
+
+### Structural Components
+- **Aluminum tube**:
+  - **Outer diameter**: 33.3 mm
+  - **Wall thickness**: 3 mm
+  - **Purpose**: Used as the axle for mounting the wheels (see [Securing the Wheel](#securing-the-wheel)). Together with three other sections, it forms a sturdy rectangular frame that serves as the base of the trolley.
+  - **Dimensions**:
+    - **Axle length**: 38 cm (for my double bass in its case).
+    - **Vertical tubes**: 50 cm each (two pieces).
+    - **Top crossbar**: ~31.3 cm (calculated as `38 cm - (2 × 3.33 mm)`).
+
+- **Tyreen tubing**:
+  - **Diameter**: 20.2 mm
+  - **Purpose**: Used to build the side supports. This tubing has a **fixed curvature**, so it is important to rotate the pieces favorably during assembly.
+
+---
+
+### 3D-Printed and Fastening Components
+- **PETG filament**:
+  - All couplings and connecting parts are 3D-printed using PETG.
+  - **Printer volume**: 12 × 12 × 12 cm (all parts fit within this build volume, so no large printer is required).
+
+- **Fastening cord**:
+  - **Material**: 3.5 mm **paracord** (with a tensile strength of **150 kg**, more than sufficient for a double bass).
+  - **Setup**:
+    - **Lower loop**: Passes through the tubes and around the end pin.
+    - **Upper loop**: Passes through the tubes and, using a **"spin elastic/span band"**, secures the neck.
+    - Both loops pull in **opposite directions**, pressing the tube system firmly together toward the center.
+
+---
+### Additional Hardware
+- **Metal hook**: Used to attach the cord to the end pin.
+- **2 × M12 bolts**: For securing the wheel assembly.
+- **4 × shim rings**: Prevent the force from the wheel mounting from pressing on the outer side of the bearings.
