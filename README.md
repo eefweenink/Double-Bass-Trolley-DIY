@@ -24,7 +24,7 @@ Eef
 
 ### Wheel Choice
 Without wheels, there’s no trolley. **12-inch wheels** are ideal: large enough to clear bumps but not so large that they compromise flexibility. This size also makes them perfect for navigating stairs.
-I sourced mine from [this Amazon listing](https://www.amazon.nl/Achterwiel-reservewiel-fietsbanden-veelzijdige-toepassing/dp/B0F9J1QZNZ).
+For reference, [this Amazon listing](https://www.amazon.nl/Achterwiel-reservewiel-fietsbanden-veelzijdige-toepassing/dp/B0F9J1QZNZ) shows what these wheels look like.
 *(I found them on a second-hand marketplace attached to a child’s bike.)*
 
 ---
