@@ -60,4 +60,16 @@ To ensure this works with a single bolt, the design must include a column of com
 ### Dimensions and Tolerances
 - **General tolerance**: ±0.1 mm
 - **Shim rings**:
-  - **Inner diameter**: Slightly
+  - **Inner diameter**: Slightly larger than 12 mm (target: **12.1 mm**).
+  - **Outer diameter**: Maximum **17 mm**.
+  - **Thickness**: **1.5–2 mm**.
+- **Bearing housing**:
+  - **Inner diameter**: Slightly larger than 12 mm (target: **12.1 mm**).
+  - **Outer diameter**: Can be larger (up to **20 mm**; a wall thickness of **3–4 mm** is substantial).
+    - *Note*: If the outer diameter exceeds 17 mm, **chamfer the ends** to avoid pressing on the wrong parts of the bearings.
+  - **Thickness**: **34 mm** (so the total height of two bearings (2 × 8 mm) + housing equals **50 mm**).
+    - **Important**: Measure first! Depending on the wheels, the thickness might need slight adjustment to avoid pressure on the bearings. Use your slicer to scale the model to the correct size if necessary.
+
+![Dimensions Diagram](https://github.com/user-attachments/assets/5e16f7d9-d866-42dc-8dd8-d8afd1b01106)
+
+> *The bearing housing and shim rings can be 3D printed or made of metal. My suggestion is to 3D print the bearing housing and use metal shims (see BOM list).*
