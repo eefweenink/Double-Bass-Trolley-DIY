@@ -18,41 +18,52 @@ Eef
 
 ![Double Bass Trolley Design](https://github.com/user-attachments/assets/1983f12f-a4c4-4e38-a17f-96b05220d5da)
 
+---
 
-## Wheel Bearing Housing for Securing Wheels
-Whithout wheels no trolley. 12 inch wheels are just fine. Not to small so it hangs on every bump. Not to large to be flexibel. This size makes them perfect for going up/down stairs. https://www.amazon.nl/Achterwiel-reservewiel-fietsbanden-veelzijdige-toepassing/dp/B0F9J1QZNZ
-_(I found them on a  second-hand marketplace attached to a child’s bike.)_
+## Wheel Selection and Bearing Housing
 
-The wheel (plastic) contains two bearings pressed into either side. These are **6001ZZ bearings** with the following dimensions:
+### Wheel Choice
+Without wheels, there’s no trolley. **12-inch wheels** are ideal: large enough to clear bumps but not so large that they compromise flexibility. This size also makes them perfect for navigating stairs.
+I sourced mine from [this Amazon listing](https://www.amazon.nl/Achterwiel-reservewiel-fietsbanden-veelzijdige-toepassing/dp/B0F9J1QZNZ).
+*(I found them on a second-hand marketplace attached to a child’s bike.)*
+
+---
+
+### Wheel Construction
+The wheel (plastic) contains two **6001ZZ bearings** pressed into either side, with the following dimensions:
 - **Outer diameter**: 28 mm
 - **Inner diameter**: 12 mm
 - **Height**: 8 mm
 - **Outer diameter of the inner ring**: 16.5 mm
 
-To secure the wheel unilaterally in a tube, I use **M12 bolts** and 3D-printed bushings/plugs. The assembly consists of (from left to right):
-1. A seal that fits inside/on the tube.
-2. A flexible ring that fits snugly into the bushing.
-3. A cone that pushes the ring outward, clamping it in place.
-  push everything on the bolt, what goes inside the tube
-4. A self-locking nut holds the wheel, while pressing everything together.
+---
 
-To ensure this works with a single bolt, the design must include a column of components that can push against each other **without displacing or clamping the bearings**. This is achieved with the following structure (ignore the colors in the diagram):
+### Securing the Wheel
+To secure the wheel unilaterally in a tube, I use **M12 bolts** and 3D-printed bushings/plugs. The assembly (from left to right) consists of:
+1. A **seal** that fits inside/on the tube.
+2. A **flexible ring** that fits snugly into the bushing.
+3. A **cone** that pushes the ring outward, clamping it in place.
+4. A **self-locking nut** that holds the wheel in place while pressing all components together.
+
+![Assembly Diagram](https://github.com/user-attachments/assets/54c2eb06-50b7-433d-84c9-6775a9440de2)
+
+To ensure this works with a single bolt, the design must include a column of components that can push against each other **without displacing or clamping the bearings**. This is achieved with the following structure:
 - **Green**: The axle (an M12 bolt).
 - **Red**: The bearings.
 - **Blue**:
-  - **Shim rings** (middle section): These must fit precisely on the inner ring of the bearing.
+  - **Shim rings** (middle section): Must fit precisely on the inner ring of the bearing.
   - **Bearing housing**: Fits snugly on the inner ring and transfers pressure to the tube seal.
 
-#### Dimensions and Tolerances
-- **Tolerance**: ±0.1 mm
+---
+### Dimensions and Tolerances
+- **General tolerance**: ±0.1 mm
 - **Shim rings**:
   - **Inner diameter**: Slightly larger than 12 mm (target: **12.1 mm**).
   - **Outer diameter**: Maximum **17 mm**.
-  - **Thickness**: Minimum **1.5–2 mm**.
+  - **Thickness**: **1.5–2 mm**.
 - **Bearing housing**:
   - **Inner diameter**: Slightly larger than 12 mm (target: **12.1 mm**).
-  - **Outer diameter**: Can be larger (up to **20 mm** would work; a wall thickness of **3–4 mm** is substantial).
-    - *Note*: If the outer diameter exceeds 17 mm, chamfer the ends to avoid pressing on the wrong parts of the bearings.
-  - **Thickness**: **34 mm** (so that the total height of two bearings (2 × 8 mm) + housing equals **50 mm**).
-  NB: Measure first, depending on the wheels it could be just a bit more to avoid pressure on the bearings. Use the slicer to scale to size when needed. 
-
+  - **Outer diameter**: Can be larger (up to **20 mm**; a wall thickness of **3–4 mm** is substantial).
+    - *Note*: If the outer diameter exceeds 17 mm, **chamfer the ends** to avoid pressing on the wrong parts of the bearings.
+  - **Thickness**: **34 mm** (so the total height of two bearings (2 × 8 mm) + housing equals **50 mm**).
+    - **Important**: Measure first! Depending on the wheels, the thickness might need slight adjustment to avoid pressure on the bearings. Use your slicer to scale the model to the correct size if necessary.
