@@ -53,6 +53,8 @@ To ensure this works with a single bolt, the design must include a column of com
 - **Blue**:
   - **Shim rings** (middle section): Must fit precisely on the inner ring of the bearing.
   - **Bearing housing**: Fits snugly on the inner ring and transfers pressure to the tube seal.
+  - 
+<img width="394" height="202" alt="image" src="https://github.com/user-attachments/assets/f6f2151c-ef38-4caa-b25a-f2cb528da07c" />
 
 ---
 ### Dimensions and Tolerances
@@ -67,3 +69,6 @@ To ensure this works with a single bolt, the design must include a column of com
     - *Note*: If the outer diameter exceeds 17 mm, **chamfer the ends** to avoid pressing on the wrong parts of the bearings.
   - **Thickness**: **34 mm** (so the total height of two bearings (2 × 8 mm) + housing equals **50 mm**).
     - **Important**: Measure first! Depending on the wheels, the thickness might need slight adjustment to avoid pressure on the bearings. Use your slicer to scale the model to the correct size if necessary.
+    - <img width="390" height="164" alt="image" src="https://github.com/user-attachments/assets/5e16f7d9-d866-42dc-8dd8-d8afd1b01106" /> 
+_    (could be all 3d printed, or in metal. My suggestion is to print the bearing housing and use metal shims (see BOM-list))_
+
