@@ -82,8 +82,8 @@ To ensure this works with a single bolt, the design must include a column of com
   - **Wall thickness**: 3 mm
   - **Purpose**: Used as the axle for mounting the wheels (see [Securing the Wheel](#securing-the-wheel)). Together with three other sections, it forms a sturdy rectangular frame that serves as the base of the trolley.
   - **Dimensions**:
-    - **Axle length**: 38 cm (for my double bass in its case).
-    - **Vertical tubes**: 50 cm each (two pieces).
+    - **Axle length**: 38 cm (for my double bass in its bag).
+    - **Vertical tubes**: 50 cm each (two pieces) May also be longer, about 65 cm so the top crossbar comes above the upper bout.
     - **Top crossbar**: ~31.3 cm (calculated as `38 cm - (2 × 3.33 mm)`).
 
 - **Tyreen tubing**:
