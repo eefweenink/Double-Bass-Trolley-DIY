@@ -105,6 +105,7 @@ To ensure this works with a single bolt, the design must include a column of com
 ---
 
 ## End Hook and Accessories for Easy Spin Attachment
+<img src="https://github.com/user-attachments/assets/aaf13291-55de-4b98-9899-0a866331aeb5" alt="Printing Setup" width="200" />
 
 The trolley is secured at the bottom with a hook around the **end pin**. Finding a well-fitting hook for this purpose isn’t straightforward, but this [hook from Amazon](https://www.amazon.nl/dp/B0C6HJWLKB) works reasonably well.
 
@@ -124,6 +125,5 @@ To print the donut:
 
 <img src="https://github.com/user-attachments/assets/5d585123-909d-4dd2-b0f4-106b4e60eb2b" alt="Donut and Hook Assembly" width="200" />
 <img src="https://github.com/user-attachments/assets/e60de541-bafc-4bba-b381-36871a0630ea" alt="Donut Design" width="200" />
-<img src="https://github.com/user-attachments/assets/aaf13291-55de-4b98-9899-0a866331aeb5" alt="Printing Setup" width="200" />
 
 > **Note**: The same design is used to create rings for the **top section**, making it easy to hook in the spin elastic.
