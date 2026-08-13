@@ -119,6 +119,8 @@ To ensure this works with a single bolt, the design must include a column of com
 The trolley is secured at the bottom with a hook around the **end pin**. Finding a well-fitting hook for this purpose isn’t straightforward, but this [hook from Amazon](https://www.amazon.nl/dp/B0C6HJWLKB) works reasonably well.
 
 However, during use, the cord tends to slip between the iron wires of the hook, causing it to bend out of shape. To solve this, I designed a **protective "donut"** that shields the hook.
+#<img width="2670" height="3846" alt="IMG_3240" src="https://github.com/user-attachments/assets/3ff9284a-0137-4ee9-8b57-7990a13b5342" />
+
 <img width="476" height="315" alt="Scherm­afbeelding 2026-08-13 om 20 52 30" src="https://github.com/user-attachments/assets/5d585123-909d-4dd2-b0f4-106b4e60eb2b" />
 <img width="3019" height="2720" alt="IMG_3239" src="https://github.com/user-attachments/assets/e60de541-bafc-4bba-b381-36871a0630ea" />
 
@@ -136,7 +138,4 @@ To print the donut:
 
 > **Note**: The same design is used to create rings for the **top section**, making it easy to hook in the spin elastic.
 
-#<img width="2670" height="3846" alt="IMG_3240" src="https://github.com/user-attachments/assets/3ff9284a-0137-4ee9-8b57-7990a13b5342" />
 
-![Hook and Donut Assembly](image_url_1)
-![Slicer Setup](image_url_2)
