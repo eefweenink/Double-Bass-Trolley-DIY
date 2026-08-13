@@ -110,8 +110,7 @@ To ensure this works with a single bolt, the design must include a column of com
 The trolley is secured at the bottom with a hook around the **end pin**. Finding a well-fitting hook for this purpose isn’t straightforward, but this [hook from Amazon](https://www.amazon.nl/dp/B0C6HJWLKB) works reasonably well.
 
 However, during use, the cord tends to slip between the iron wires of the hook, causing it to bend out of shape. To solve this, I designed a **protective "donut"** that shields the hook.
-<img width="2670" height="3846" alt="IMG_3240" src="https://github.com/user-attachments/assets/a580ffb5-b00a-431f-99c9-e0cff469e5c6" />
-
+<img src="https://github.com/user-attachments/assets/a580ffb5-b00a-431f-99c9-e0cff469e5c6" alt="End pin hook with protective donut" width="200" />
 
 ### Printing the Donut
 To print the donut:
