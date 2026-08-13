@@ -127,8 +127,8 @@ To print the donut:
    - Pause the print at the designated height.
    - Insert the hook neatly into the donut.
    - Resume the print.
-<img width="2116" height="4028" alt="IMG_3238" src="https://github.com/user-attachments/assets/aaf13291-55de-4b98-9899-0a866331aeb5" />
 <img width="476" height="315" alt="Scherm­afbeelding 2026-08-13 om 20 52 30" src="https://github.com/user-attachments/assets/5d585123-909d-4dd2-b0f4-106b4e60eb2b" />
+<img width="2116" height="4028" alt="IMG_3238" src="https://github.com/user-attachments/assets/aaf13291-55de-4b98-9899-0a866331aeb5" />
 
 > **Note**: The same design is used to create rings for the **top section**, making it easy to hook in the spin elastic.
 
