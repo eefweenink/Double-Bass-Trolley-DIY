@@ -16,7 +16,7 @@ This is my current design, which I’m actively testing. My goal is to share the
 Regards,
 Eef
 
-![Double Bass Trolley Design](https://github.com/user-attachments/assets/1983f12f-a4c4-4e38-a17f-96b05220d5da)
+![Double Bass Trolley Design](https://github.com/user-attachments/assets/1983f12f-a4c4-4e38-a17f-96b05220d5da){: width="400" }
 
 ---
 
@@ -45,7 +45,7 @@ To secure the wheel unilaterally in a tube, I use **M12 bolts** and 3D-printed b
 3. A **cone** that pushes the ring outward, clamping it in place.
 4. A **self-locking nut** that holds the wheel in place while pressing all components together.
 
-![Assembly Diagram](https://github.com/user-attachments/assets/54c2eb06-50b7-433d-84c9-6775a9440de2)
+![Assembly Diagram](https://github.com/user-attachments/assets/54c2eb06-50b7-433d-84c9-6775a9440de2){: width="400" }
 
 To ensure this works with a single bolt, the design must include a column of components that can push against each other **without displacing or clamping the bearings**. This is achieved with the following structure:
 - **Green**: The axle (an M12 bolt).
@@ -54,7 +54,7 @@ To ensure this works with a single bolt, the design must include a column of com
   - **Shim rings** (middle section): Must fit precisely on the inner ring of the bearing.
   - **Bearing housing**: Fits snugly on the inner ring and transfers pressure to the tube seal.
 
-![Bearing Housing Diagram](https://github.com/user-attachments/assets/f6f2151c-ef38-4caa-b25a-f2cb528da07c)
+![Bearing Housing Diagram](https://github.com/user-attachments/assets/f6f2151c-ef38-4caa-b25a-f2cb528da07c){: width="400" }
 
 ---
 ### Dimensions and Tolerances
@@ -70,7 +70,7 @@ To ensure this works with a single bolt, the design must include a column of com
   - **Thickness**: **34 mm** (so the total height of two bearings (2 × 8 mm) + housing equals **50 mm**).
     - **Important**: Measure first! Depending on the wheels, the thickness might need slight adjustment to avoid pressure on the bearings. Use your slicer to scale the model to the correct size if necessary.
 
-![Dimensions Diagram](https://github.com/user-attachments/assets/5e16f7d9-d866-42dc-8dd8-d8afd1b01106)
+![Dimensions Diagram](https://github.com/user-attachments/assets/5e16f7d9-d866-42dc-8dd8-d8afd1b01106){: width="400" }
 
 > *The bearing housing and shim rings can be 3D printed or made of metal. My suggestion is to 3D print the bearing housing and use metal shims (see BOM list).*
 
@@ -120,7 +120,7 @@ The trolley is secured at the bottom with a hook around the **end pin**. Finding
 
 However, during use, the cord tends to slip between the iron wires of the hook, causing it to bend out of shape. To solve this, I designed a **protective "donut"** that shields the hook.
 
-![Hook Example](https://github.com/user-attachments/assets/eee11015-f3ec-4dbb-ac85-6c3cfd709f16)
+![Hook Example](https://github.com/user-attachments/assets/eee11015-f3ec-4dbb-ac85-6c3cfd709f16){: width="300" }
 
 ### Printing the Donut
 To print the donut:
@@ -132,8 +132,8 @@ To print the donut:
    - Insert the hook neatly into the donut.
    - Resume the print.
 
-![Donut and Hook Assembly](https://github.com/user-attachments/assets/5d585123-909d-4dd2-b0f4-106b4e60eb2b)
-![Donut Design](https://github.com/user-attachments/assets/e60de541-bafc-4bba-b381-36871a0630ea)
-![Printing Setup](https://github.com/user-attachments/assets/aaf13291-55de-4b98-9899-0a866331aeb5)
+![Donut and Hook Assembly](https://github.com/user-attachments/assets/5d585123-909d-4dd2-b0f4-106b4e60eb2b){: width="300" }
+![Donut Design](https://github.com/user-attachments/assets/e60de541-bafc-4bba-b381-36871a0630ea){: width="300" }
+![Printing Setup](https://github.com/user-attachments/assets/aaf13291-55de-4b98-9899-0a866331aeb5){: width="300" }
 
 > **Note**: The same design is used to create rings for the **top section**, making it easy to hook in the spin elastic.
