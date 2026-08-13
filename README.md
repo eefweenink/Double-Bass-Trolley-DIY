@@ -109,3 +109,30 @@ To ensure this works with a single bolt, the design must include a column of com
 - **Metal hook**: Used to attach the cord to the end pin.
 - **2 × M12 bolts**: For securing the wheel assembly.
 - **4 × shim rings**: Prevent the force from the wheel mounting from pressing on the outer side of the bearings.
+
+
+## End Hook and Accessories for Easy Spin Attachment
+#<img width="2670" height="3846" alt="IMG_3240" src="https://github.com/user-attachments/assets/3ff9284a-0137-4ee9-8b57-7990a13b5342" />
+The trolley is secured at the bottom with a hook around the **end pin**. Finding a well-fitting hook for this purpose isn’t straightforward, but this [hook from Amazon](https://www.amazon.nl/dp/B0C6HJWLKB) works reasonably well.
+
+However, during use, the cord tends to slip between the iron wires of the hook, causing it to bend out of shape. To solve this, I designed a **protective "donut"** that shields the hook.
+<img width="3019" height="2720" alt="IMG_3239" src="https://github.com/user-attachments/assets/e60de541-bafc-4bba-b381-36871a0630ea" />
+
+### Printing the Donut
+To print the donut:
+1. **Positioning the hook**: The hook must be placed at the correct height inside the donut. This is easily achieved by using a **pause feature in the slicer**.
+2. **Support structure**: Add **manual support** (only for the bottom surface, using the "tree" support type) to the donut in the slicer.
+3. **Alignment tool**: Use a **1 mm thin rod** of the correct length to ensure the donut is printed at the right height.
+4. **Printing process**:
+   - Pause the print at the designated height.
+   - Insert the hook neatly into the donut.
+   - Resume the print.
+<img width="2116" height="4028" alt="IMG_3238" src="https://github.com/user-attachments/assets/aaf13291-55de-4b98-9899-0a866331aeb5" />
+<img width="476" height="315" alt="Scherm­afbeelding 2026-08-13 om 20 52 30" src="https://github.com/user-attachments/assets/5d585123-909d-4dd2-b0f4-106b4e60eb2b" />
+
+> **Note**: The same design is used to create rings for the **top section**, making it easy to hook in the spin elastic.
+
+<img width="411" height="341" alt="Scherm­afbeelding 2026-08-13 om 20 54 21" src="https://github.com/user-attachments/assets/eee11015-f3ec-4dbb-ac85-6c3cfd709f16" />
+
+![Hook and Donut Assembly](image_url_1)
+![Slicer Setup](image_url_2)
