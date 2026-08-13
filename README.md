@@ -110,8 +110,8 @@ To ensure this works with a single bolt, the design must include a column of com
 The trolley is secured at the bottom with a hook around the **end pin**. Finding a well-fitting hook for this purpose isn’t straightforward, but this [hook from Amazon](https://www.amazon.nl/dp/B0C6HJWLKB) works reasonably well.
 
 However, during use, the cord tends to slip between the iron wires of the hook, causing it to bend out of shape. To solve this, I designed a **protective "donut"** that shields the hook.
+<img width="2670" height="3846" alt="IMG_3240" src="https://github.com/user-attachments/assets/a580ffb5-b00a-431f-99c9-e0cff469e5c6" />
 
-<img src="https://github.com/user-attachments/assets/eee11015-f3ec-4dbb-ac85-6c3cfd709f16" alt="Hook Example" width="200" />
 
 ### Printing the Donut
 To print the donut:
@@ -122,8 +122,9 @@ To print the donut:
    - Pause the print at the designated height.
    - Insert the hook neatly into the donut.
    - Resume the print.
+<img src="https://github.com/user-attachments/assets/eee11015-f3ec-4dbb-ac85-6c3cfd709f16" alt="Hook Example" width="200" />
 
 <img src="https://github.com/user-attachments/assets/5d585123-909d-4dd2-b0f4-106b4e60eb2b" alt="Donut and Hook Assembly" width="200" />
-<img src="https://github.com/user-attachments/assets/e60de541-bafc-4bba-b381-36871a0630ea" alt="Donut Design" width="200" />
 
 > **Note**: The same design is used to create rings for the **top section**, making it easy to hook in the spin elastic.
+<img src="https://github.com/user-attachments/assets/e60de541-bafc-4bba-b381-36871a0630ea" alt="Donut Design" width="200" />
