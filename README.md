@@ -73,8 +73,10 @@ To ensure this works with a single bolt, the design must include a column of com
 ![Dimensions Diagram](https://github.com/user-attachments/assets/5e16f7d9-d866-42dc-8dd8-d8afd1b01106)
 
 > *The bearing housing and shim rings can be 3D printed or made of metal. My suggestion is to 3D print the bearing housing and use metal shims (see BOM list).*
->
-> ## Materials Used
+
+---
+
+## Materials Used
 
 ### Structural Components
 - **Aluminum tube**:
@@ -83,7 +85,7 @@ To ensure this works with a single bolt, the design must include a column of com
   - **Purpose**: Used as the axle for mounting the wheels (see [Securing the Wheel](#securing-the-wheel)). Together with three other sections, it forms a sturdy rectangular frame that serves as the base of the trolley.
   - **Dimensions**:
     - **Axle length**: 38 cm (for my double bass in its bag).
-    - **Vertical tubes**: 50 cm each (two pieces) May also be longer, about 65 cm so the top crossbar comes above the upper bout.
+    - **Vertical tubes**: 50 cm each (two pieces). May also be longer, about 65 cm so the top crossbar comes above the upper bout.
     - **Top crossbar**: ~31.3 cm (calculated as `38 cm - (2 × 3.33 mm)`).
 
 - **Tyreen tubing**:
@@ -110,19 +112,15 @@ To ensure this works with a single bolt, the design must include a column of com
 - **2 × M12 bolts**: For securing the wheel assembly.
 - **4 × shim rings**: Prevent the force from the wheel mounting from pressing on the outer side of the bearings.
 
+---
 
 ## End Hook and Accessories for Easy Spin Attachment
-
-<img width="411" height="341" alt="Scherm­afbeelding 2026-08-13 om 20 54 21" src="https://github.com/user-attachments/assets/eee11015-f3ec-4dbb-ac85-6c3cfd709f16" />
-
 
 The trolley is secured at the bottom with a hook around the **end pin**. Finding a well-fitting hook for this purpose isn’t straightforward, but this [hook from Amazon](https://www.amazon.nl/dp/B0C6HJWLKB) works reasonably well.
 
 However, during use, the cord tends to slip between the iron wires of the hook, causing it to bend out of shape. To solve this, I designed a **protective "donut"** that shields the hook.
-#<img width="2670" height="3846" alt="IMG_3240" src="https://github.com/user-attachments/assets/3ff9284a-0137-4ee9-8b57-7990a13b5342" />
 
-<img width="476" height="315" alt="Scherm­afbeelding 2026-08-13 om 20 52 30" src="https://github.com/user-attachments/assets/5d585123-909d-4dd2-b0f4-106b4e60eb2b" />
-<img width="3019" height="2720" alt="IMG_3239" src="https://github.com/user-attachments/assets/e60de541-bafc-4bba-b381-36871a0630ea" />
+![Hook Example](https://github.com/user-attachments/assets/eee11015-f3ec-4dbb-ac85-6c3cfd709f16)
 
 ### Printing the Donut
 To print the donut:
@@ -134,8 +132,8 @@ To print the donut:
    - Insert the hook neatly into the donut.
    - Resume the print.
 
-<img width="2116" height="4028" alt="IMG_3238" src="https://github.com/user-attachments/assets/aaf13291-55de-4b98-9899-0a866331aeb5" />
+![Donut and Hook Assembly](https://github.com/user-attachments/assets/5d585123-909d-4dd2-b0f4-106b4e60eb2b)
+![Donut Design](https://github.com/user-attachments/assets/e60de541-bafc-4bba-b381-36871a0630ea)
+![Printing Setup](https://github.com/user-attachments/assets/aaf13291-55de-4b98-9899-0a866331aeb5)
 
 > **Note**: The same design is used to create rings for the **top section**, making it easy to hook in the spin elastic.
-
-
