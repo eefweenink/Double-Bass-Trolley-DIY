@@ -82,9 +82,15 @@ To ensure this works with a single bolt, the design must include a column of com
     - **Axle length**: 38 cm (for my double bass in its bag).
     - **Vertical tubes**: 50 cm each (two pieces). May also be longer, about 65 cm so the top crossbar comes above the upper bout.
     - **Top crossbar**: ~31.3 cm (calculated as `38 cm - (2 × 3.33 mm)`).
-- **Tyreen tubing**:
+- **Tyleen tubing**:
   - **Diameter**: 20.2 mm
   - **Purpose**: Used to build the side supports. This tubing has a **fixed curvature**, so it is important to rotate the pieces favorably during assembly.
+ 
+- **Underfloor heating hose**:
+  - **Diameter**: 16 mm
+  - **Purpose**: The double bass rests on **half-moon-shaped parts** that are held together by this hose. See the image below for clarification.
+
+  <img src="https://github.com/user-attachments/assets/412c8321-bb7b-49e8-9f2f-2cf0c982358d" alt="Half-moon shaped parts with hose" width="400" />
 
 ### 3D-Printed and Fastening Components
 - **PETG filament**:
