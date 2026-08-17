@@ -81,7 +81,7 @@ To ensure this works with a single bolt, the design must include a column of com
   - **Dimensions**:
     - **Axle length**: 38 cm (for my double bass in its bag).
     - **Vertical tubes**: 50 cm each (two pieces). May also be longer, about 65 cm so the top crossbar comes above the upper bout.
-    - **Top crossbar**: ~31.3 cm (calculated as `38 cm - (2 × 3.33 mm)`).
+    - **Top crossbar**: ~31.3 cm (calculated as `38 cm - (2 × 33.3 mm)`).
 - **Tyleen tubing**:
   - **Diameter**: 20.2 mm
   - **Purpose**: Used to build the side supports. This tubing has a **fixed curvature**, so it is important to rotate the pieces favorably during assembly.
